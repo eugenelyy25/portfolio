@@ -3,8 +3,11 @@
 #### Technical Skills: Python, SQL, CAD, 3D MODELLING
 
 ### Education
-- M.S. Data Science | University of Malaya (_March 2026_)
-- B.Eng. Mechanical Engineering | Universiti Tenaga Nasional (_August 2022_)
+| Course | Institution |
+|--------|--------|
+| M.S. Data Science | University of Malaya (March 2026) |
+| B.Eng. Mechanical Engineering | Universiti Tenaga Nasional (August 2022) |
+
 
 ## Work Experience
 **Test Equipment Engineer @ TF-AMD Microelectronics (_September 2022 - May 2024_)**
