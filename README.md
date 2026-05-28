@@ -60,10 +60,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenelyy25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eugene's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenelyy25&theme=tokyonight&hide_border=true&background=0D1117" alt="Eugene's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenelyy25&theme=tokyonight&hide_border=true&background=0D1117" alt="Eugene's GitHub Streak" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/27E1A6/eugenelyy25" alt="Eugene's GitHub Contribution Grid" width="80%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+  <p><i>"In God we trust, all others must bring data."</i></p>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
   <p><i>"In God we trust, all others must bring data."</i></p>
