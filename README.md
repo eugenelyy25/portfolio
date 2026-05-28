@@ -25,6 +25,10 @@
 
 ### 🚀 Featured Projects
 
+> **[🎓 GengSDG: AI Educational Equalizer](https://github.com/eugenelyy25/GengSDG)**
+> *Chrome Extension • FastAPI • Google GenAI • Groq*
+> Built at KitaHack 2026 to close the education gap for Malaysian students. This privacy-first Chrome extension acts as a personal Socratic tutor, analyzing homework screenshots via LLMs to generate step-by-step guidance, dynamic Mermaid.js mindmaps, and smart Google Calendar revision schedules.
+
 > **[🚗 RTTPNNM: Real-Time Traffic Prediction](https://github.com/eugenelyy25/RTTPNNM)**
 > *Deep Learning • Python • Neural Networks*
 > Tackling urban congestion in Malaysia using deep learning for real-time traffic forecasting. Designed to optimize routing and enable smarter city planning for municipalities.
