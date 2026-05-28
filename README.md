@@ -73,7 +73,3 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
   <p><i>"In God we trust, all others must bring data."</i></p>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-  <p><i>"In God we trust, all others must bring data."</i></p>
-</div>
