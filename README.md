@@ -5,7 +5,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/eugenelyy25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27E1A6&center=true&vCenter=true&width=600&lines=Master+of+Data+Science+Student;Machine+Learning+Architect;AWS+Cloud+Practitioner;Building+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27E1A6&center=true&vCenter=true&width=600&lines=Master+of+Data+Science;Machine+Learning+Architect;AWS+Cloud+Practitioner;Building+Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 
   <p>Bridging the gap between physical engineering and digital intelligence.</p>
